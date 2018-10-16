@@ -12,23 +12,23 @@
 
     a. If you have projects open:
     
-        i. Click on **VCS** and then select **Checkout from Version Control** and then select **Git**.
+      1. Click on **VCS** and then select **Checkout from Version Control** and then select **Git**.
     
-        ii. In the window that pops up, paste the URL you copied.
+      2. In the window that pops up, paste the URL you copied.
     
-        iii. Click **Test**. Should work.
+      3. Click **Test**. Should work.
     
-        iv. Click **Clone** and continue with opening the project.
+      4. Click **Clone** and continue with opening the project.
     
     b. If you don't have any projects open and you only see the initial PyCharm box with options to Create a New Project, Open, or Checkout from Version Control:
     
-        i. Click **Checkout from Version Control** and then select **Git**.
+      1. Click **Checkout from Version Control** and then select **Git**.
     
-        ii. In the window that pops up, paste the URL you copied.
+      2. In the window that pops up, paste the URL you copied.
     
-        iii. Click **Test**. Should work.
+      3. Click **Test**. Should work.
     
-        iv. Click **Clone** and continue with opening the project.
+      4. Click **Clone** and continue with opening the project.
 
 5. Now you have the code that I wrote in your own development environment. This is the power of using Github.    
  
