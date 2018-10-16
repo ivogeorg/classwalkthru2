@@ -20,7 +20,7 @@
     
       4. Click **Clone** and continue with opening the project.
     
-    b. If you don't have any projects open and you only see the initial PyCharm box with options to Create a New Project, Open, or Checkout from Version Control:
+    b. If you don't have any projects open and you only see the initial PyCharm box ![alt text](https://github.com/ivogeorg/classwalkthru2/blob/master/images/pycharm_start_box_with_git.png "PyCharm start box")
     
       1. Click **Checkout from Version Control** and then select **Git**.
     
