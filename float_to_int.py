@@ -34,4 +34,15 @@ if __name__ == "__main__":
     print(strings)
     print(string_sandbox(strings))
 
+    s = "just a string"
+    i = 13
+    i = 12
+
+    a = 4
+    b = 6
+    c = a + b
+
+    # ADD A, B, C
+
+
 
