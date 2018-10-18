@@ -10,12 +10,16 @@ def square(turtl, size):
         turtl.right(90)
 
 
-t = turtle.Turtle()
-t.speed(80)
-step_angle = 3
-for i in range(360//step_angle):
-    square(t, 100)
-    t.right(step_angle)
+def circle_out_of_squares(turtl, speed, square_size, step_angle):
+    turtl.speed(speed)
+    step_angle = step_angle
+    for i in range(360//step_angle):
+        square(turtl, square_size)
+        turtl.right(step_angle)
+
+
+def square_out_of_circles(turtl, speed, square_size):
+    pass  # TODO
 
 
 # prevent the window from closing until you mouse-click on it
